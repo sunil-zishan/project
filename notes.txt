@@ -1,1 +1,2 @@
-Added by feature A branch
+Line 1: Stable text
+Line 2: Added by feature A
